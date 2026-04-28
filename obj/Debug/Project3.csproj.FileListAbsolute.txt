@@ -1,0 +1,12 @@
+C:\Users\Roman\source\repos\Project3\Project3\bin\Debug\Project3.exe.config
+C:\Users\Roman\source\repos\Project3\Project3\bin\Debug\Project3.exe
+C:\Users\Roman\source\repos\Project3\Project3\bin\Debug\Project3.pdb
+C:\Users\Roman\source\repos\Project3\Project3\obj\Debug\Project3.csproj.AssemblyReference.cache
+C:\Users\Roman\source\repos\Project3\Project3\obj\Debug\Project3.Properties.Resources.resources
+C:\Users\Roman\source\repos\Project3\Project3\obj\Debug\Project3.csproj.GenerateResource.cache
+C:\Users\Roman\source\repos\Project3\Project3\obj\Debug\Project3.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\Project3\Project3\obj\Debug\Project3.exe
+C:\Users\Roman\source\repos\Project3\Project3\obj\Debug\Project3.pdb
+C:\Users\Roman\source\repos\Project3\Project3\obj\Debug\Project3.exe.config
+C:\Users\Roman\source\repos\Project3\Project3\obj\Debug\Project3.ListCar.resources
+C:\Users\Roman\source\repos\Project3\Project3\obj\Debug\Project3.Data.resources
